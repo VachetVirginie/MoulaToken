@@ -4,7 +4,7 @@
 Buts de cet exercice:
 ----------
 
--   Comment créer une cryptomonnaie
+-   Comment créer une cryptomonnaie grâce aux tokens ERC-20
 
 -   La blockchain Ethereum
 
@@ -13,7 +13,7 @@ Buts de cet exercice:
 -   Les tokens ERC-20
 
 -   Les bases du langage de programmation Solidity
--   
+ 
 Initialize
 ----------
 
